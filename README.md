@@ -6,7 +6,7 @@
 
 **Procedure:**
 - Download and install Homestead Vagrant box
-- Run vagrant box add laravel/homestead
-- Git clone
+- Run command vagrant box add laravel/homestead
+- Git clone https://github.com/rajyarvlife/myproject.git
 - Go to project folder
 - Run vagrant up
