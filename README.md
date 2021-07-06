@@ -1,5 +1,5 @@
 **Prerequisite:**
-Vagrant
+Vagrant\n
 Virtual box
 Git
 
